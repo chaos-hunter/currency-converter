@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-3mfymhs^oieg6m3iz!!z7vfj$od%g_nmd_#5y31s+@v*&lwre$
 DEBUG = True
 
 ALLOWED_HOSTS = [
-    'davidentonu.pythonanywhere.com',
+    'currency-converter.onrender.com',
 ]
 
 
